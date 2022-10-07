@@ -3,9 +3,9 @@ using Gtk;
 
 public partial class MainWindow: Gtk.Window
 {
-	public MainWindow () : base (Gtk.WindowType.Toplevel)
+	public MainWindow (string? windowName) : base (Gtk.WindowType.Toplevel)
 	{
-        
+        Title = windowName;
 	}
 
 	protected void OnDeleteEvent (object sender, DeleteEventArgs a)

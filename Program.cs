@@ -10,26 +10,26 @@ namespace QuizGeneratevscode
 		{
 			
 			Application.Init ();
-			Window win = new Window("Quiz Constructor");
 			
-			Label status = new Label();
-			status.Text = "helloagain";
+			
+			bob.status.Text = bob.lblText;
 			Button button1 = Button.NewWithMnemonic("Hello World");
+			button1.Clicked += bob.calling;
 			
-			HBox box = new HBox(false, 0);
+			VBox box = new VBox(false, 0);
 
-			box.PackStart(status, true, true, 1);
+			box.PackStart(bob.status, true, true, 1);
 			box.PackStart(button1, true, true, 1);
-			status.Show();
+			bob.status.Show();
 			button1.Show();
 			Widget widBox = box;
 			box.Show();
 			widBox.Show();
 			
-			win.Add(widBox);
+			bob.win.Add(widBox);
 			
 			
-			win.ShowAll();
+			bob.win.ShowAll();
 			
             
 			Application.Run ();
