@@ -1,6 +1,6 @@
 using System;
 using Gtk;
-
+//
 class bob
 {
     public static MainWindow win = new MainWindow("Quiz Constructor");

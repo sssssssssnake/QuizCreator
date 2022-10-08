@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "59mg8PfsXBwRV3We2lWoEcJWi7fCTmgiX44IEI1yDEVicySIKvtH96eIzsEaS9jd/A5i0ixJt9QZEiDYNT68Yw==",
+  "dgSpecHash": "AWAL+CmW5WzwJzVA4Zs6oW5gNJdRQwwQI8/ItOzHLjYc6YNawOCK10Ao08arRmKFoNSmwQm9cDCUs/M6WsQskQ==",
   "success": true,
-  "projectFilePath": "/home/edge/Projects/QuizGeneratevscode/QuizGeneratevscode.csproj",
+  "projectFilePath": "C:\\Users\\samue\\Videos\\teats\\Q's\\GtkStuff\\QuizCreator\\QuizGeneratevscode.csproj",
   "expectedPackageFiles": [
-    "/home/edge/.nuget/packages/atksharp/3.24.24.38/atksharp.3.24.24.38.nupkg.sha512",
-    "/home/edge/.nuget/packages/cairosharp/3.24.24.38/cairosharp.3.24.24.38.nupkg.sha512",
-    "/home/edge/.nuget/packages/gdksharp/3.24.24.38/gdksharp.3.24.24.38.nupkg.sha512",
-    "/home/edge/.nuget/packages/giosharp/3.24.24.38/giosharp.3.24.24.38.nupkg.sha512",
-    "/home/edge/.nuget/packages/glibsharp/3.24.24.38/glibsharp.3.24.24.38.nupkg.sha512",
-    "/home/edge/.nuget/packages/gtksharp/3.24.24.38/gtksharp.3.24.24.38.nupkg.sha512",
-    "/home/edge/.nuget/packages/pangosharp/3.24.24.38/pangosharp.3.24.24.38.nupkg.sha512"
+    "C:\\Users\\samue\\.nuget\\packages\\atksharp\\3.24.24.38\\atksharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\cairosharp\\3.24.24.38\\cairosharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\gdksharp\\3.24.24.38\\gdksharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\giosharp\\3.24.24.38\\giosharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\glibsharp\\3.24.24.38\\glibsharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\gtksharp\\3.24.24.38\\gtksharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\pangosharp\\3.24.24.38\\pangosharp.3.24.24.38.nupkg.sha512"
   ],
   "logs": []
 }
