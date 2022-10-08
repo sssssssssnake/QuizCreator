@@ -20,18 +20,15 @@ namespace QuizGeneratevscode
 
 			box.PackStart(bob.status, true, true, 1);
 			box.PackStart(button1, true, true, 1);
-			bob.status.Show();
-			button1.Show();
+			
 			Widget widBox = box;
-			box.Show();
-			widBox.Show();
+			
 			
 			bob.win.Add(widBox);
 			
 			
 			bob.win.ShowAll();
 			
-            
 			Application.Run ();
 			
 

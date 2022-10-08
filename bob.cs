@@ -1,6 +1,6 @@
 using System;
 using Gtk;
-//
+//class for objects and methods concerning their objects to be run in Program.cs
 class bob
 {
     public static MainWindow win = new MainWindow("Quiz Constructor");
@@ -14,7 +14,6 @@ class bob
     }
     public static void winAndLblShow() {
         status.Text = lblText;
-        status.Show();
         win.ShowAll();
     }
     
