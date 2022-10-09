@@ -16,17 +16,20 @@ namespace QuizGeneratevscode
 			Button button1 = Button.NewWithMnemonic("Hello World");
 			button1.Clicked += bob.calling;
 			
-			VBox box = new VBox(false, 0);
+			VBox boxofVert = new VBox(false, 0);
 
-			box.PackStart(bob.status, true, true, 1);
-			box.PackStart(button1, true, true, 1);
+
+			boxofVert.PackStart(bob.status, true, true, 5);
+			boxofVert.PackStart(button1, true, true, 5);
+			boxofVert.PackStart(bob.entryfield, true,true, 5);
 			
-			Widget widBox = box;
+			Widget widBox = boxofVert;
 			
 			
 			bob.win.Add(widBox);
 			
 			
+
 			bob.win.ShowAll();
 			
 			Application.Run ();

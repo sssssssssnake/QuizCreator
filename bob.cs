@@ -7,9 +7,11 @@ class bob
     public static string lblText = "Are You Ready?";
 
     public static Label status = new Gtk.Label();
-	
+
+    public static Entry entryfield = new Entry("Well, are you?");
+    
     public static void calling(object obj, EventArgs eventArgs) {
-        lblText = "Good";
+        lblText = entryfield.GetChars(0, 100);
         winAndLblShow();
     }
     public static void winAndLblShow() {
