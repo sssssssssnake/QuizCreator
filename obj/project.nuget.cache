@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AWAL+CmW5WzwJzVA4Zs6oW5gNJdRQwwQI8/ItOzHLjYc6YNawOCK10Ao08arRmKFoNSmwQm9cDCUs/M6WsQskQ==",
+  "dgSpecHash": "atBLWkP8LCs9iyr9Cn7YWWNiCKxh2MSRvTanRgwOoJT8vKQ6sSIf1pn3U2DWHmDdejmvaJv16/4dXiE98eHVWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\samue\\Videos\\teats\\Q's\\GtkStuff\\QuizCreator\\QuizGeneratevscode.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,18 @@
     "C:\\Users\\samue\\.nuget\\packages\\giosharp\\3.24.24.38\\giosharp.3.24.24.38.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\glibsharp\\3.24.24.38\\glibsharp.3.24.24.38.nupkg.sha512",
     "C:\\Users\\samue\\.nuget\\packages\\gtksharp\\3.24.24.38\\gtksharp.3.24.24.38.nupkg.sha512",
-    "C:\\Users\\samue\\.nuget\\packages\\pangosharp\\3.24.24.38\\pangosharp.3.24.24.38.nupkg.sha512"
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\pangosharp\\3.24.24.38\\pangosharp.3.24.24.38.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
